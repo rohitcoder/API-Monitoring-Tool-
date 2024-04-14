@@ -3,7 +3,7 @@ charset-normalizer==2.0.12
 click==8.0.4
 dnspython==2.2.1
 Flask==2.0.3
-idna==3.3
+idna==3.7
 itsdangerous==2.1.0
 Jinja2==3.0.3
 MarkupSafe==2.1.0
